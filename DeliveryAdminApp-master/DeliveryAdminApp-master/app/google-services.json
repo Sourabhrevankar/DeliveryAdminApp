@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "761285881820",
+    "firebase_url": "https://diesel-delivery-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "diesel-delivery",
+    "storage_bucket": "diesel-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761285881820:android:a365fa3bda612a41226919",
+        "android_client_info": {
+          "package_name": "com.example.deliveryadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761285881820-qpahjtftoh4ua7tcgk11a5atfjrfu3j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBslMJKRGMZhl_n2dTvet4OXAtcShanM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761285881820-qpahjtftoh4ua7tcgk11a5atfjrfu3j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761285881820:android:facdb8d43ebc523f226919",
+        "android_client_info": {
+          "package_name": "com.example.petroldelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761285881820-qpahjtftoh4ua7tcgk11a5atfjrfu3j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuBslMJKRGMZhl_n2dTvet4OXAtcShanM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761285881820-qpahjtftoh4ua7tcgk11a5atfjrfu3j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
